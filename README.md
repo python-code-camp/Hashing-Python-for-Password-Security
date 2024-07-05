@@ -7,4 +7,4 @@ Hashing, in general, is crucial for safeguarding sensitive information such as p
 
 Hashing ensures that even if a database is compromised, the original passwords remain hidden, enhancing the overall security of systems and protecting user privacy.
 
-Do Watch : https://youtu.be/gZw5UKXna1Q
+Explanation : https://youtu.be/gZw5UKXna1Q
