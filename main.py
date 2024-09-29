@@ -1,3 +1,5 @@
+""" https://www.youtube.com/@PythonCodeCampOrg """
+
 import argon2
 
 password = "MySecurePassword"
